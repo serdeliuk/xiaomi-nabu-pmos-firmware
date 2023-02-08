@@ -1,0 +1,1 @@
+# xiaomi-nabu-pmos-firmware
